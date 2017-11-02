@@ -66,7 +66,7 @@
 				8116A3531FAB804300592B5F /* Main.storyboard */,
 				8116A3681FABB61100592B5F /* RightMovieTableViewCell.swift */,
 				8116A36A1FABB63000592B5F /* LeftMovieTableViewCell.swift */,
-				8116A3651FAB80B100592B5F /* New Group */,
+				8116A3651FAB80B100592B5F /* Controllers */,
 				8116A3561FAB804300592B5F /* Assets.xcassets */,
 				8116A3661FAB840900592B5F /* MovieModel.swift */,
 				8116A35B1FAB804300592B5F /* Info.plist */,
@@ -75,13 +75,13 @@
 			path = "Multible VC- MovieProject";
 			sourceTree = "<group>";
 		};
-		8116A3651FAB80B100592B5F /* New Group */ = {
+		8116A3651FAB80B100592B5F /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
 				8116A3611FAB809000592B5F /* MovieViewController.swift */,
 				8116A3631FAB80A100592B5F /* MovieDetailViewController.swift */,
 			);
-			path = "New Group";
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
